@@ -6,7 +6,6 @@ public class HomeW2 {
     doFour(" 7 ", 6);
     doFive(1);
 
-
 }
 
     static boolean doOne(int a, int b) {
